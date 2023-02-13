@@ -37,5 +37,32 @@ nav i {
 }
 .search i{
     position: relative;
-    left: -10;
+    
 }
+
+/* Footer */
+.footer-upper{
+    width: 100%;
+    background-color: #1C49C2;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'chewy';
+    color: white;
+}
+.footer-upper a{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #1C49C2;
+    font-family: 'chewy';
+}
+
+/* nav bar ends */
+
+.container{
+    height: 100vh;
+    width: 100%;
+}
+
