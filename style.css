@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+
+body{
+    margin: 0;
+}
+.Logo{
+    font-size: larger;
+}
+nav{
+    background: #1C49C2;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    font-family: 'chewy';
+}
+nav input{
+    width: 400px;
+    height: 5vh;
+    border-radius: 10px;
+    border: none;
+}
+nav i {
+    font-size: 20px;
+}
+.alt-menu a {
+    padding: 20px;
+}
+.search{
+    color: white;
+    font-family: 'chewy';
+}
+.search i{
+    position: relative;
+    left: -10;
+}
