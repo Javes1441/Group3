@@ -146,6 +146,7 @@ img{
 .item-cart{
   margin-top: 10px;
   display: flex;
+  justify-content: space-between;
 }
 .item-details{
   display: flex;
@@ -167,6 +168,7 @@ h4{
     margin-bottom: 20px;
   }
 }
+  
 
 /* Footer */
 .footer-upper{
