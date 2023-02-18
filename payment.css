@@ -123,6 +123,13 @@ span.price {
   float: right;
   color: grey;
 }
+#start{
+
+  padding: .6rem 2rem .6rem 2rem;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  text-align: center;
+}
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other (also change the direction - make the "cart" column go on top) */
 @media (max-width: 800px) {
